@@ -1,0 +1,18 @@
+#section-2 {
+    height: 800px;
+}
+
+.section-2 {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style-type: circle;
+}
+
+hr {
+    width: 100px;
+    color: #fafafa;
+}

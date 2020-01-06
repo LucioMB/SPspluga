@@ -1,4 +1,4 @@
-section {
+.section-1 {
     background-image: linear-gradient(rgba(46, 177, 201, 0.3), rgba(81, 104, 233, 0.5)),
                         url(../images/bg-pattern.png);
     background-repeat: repeat;
@@ -32,21 +32,26 @@ section {
     width: 440px;
     padding: 0 50px 10px 70px;
     border: 0px solid #000;
+    vertical-align: top;
+    margin-bottom: 100px;
+    padding-bottom: 70px;
 }
 
 .div-wiS {
-    width: 250px;
-    height: 50px;
-    border: 2px solid #fff;
-    border-radius: 50px;
-    margin: 50px 0 0 0;
-    padding: 15px 20px 10px 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 10px;
-    font-weight: normal;
-    text-align: center;
+    margin: 80px;
 }
 
 .wiS {
     color: #fff;
+    padding: 20px 60px 20px 60px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    margin: 50px 0 0 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+}
+.wiS:hover {
+    background-color: #729FCF;
 }
