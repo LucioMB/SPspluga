@@ -4,7 +4,8 @@
     height: 50px;
     margin: 0 0 0 0;
     padding: 10px 10px 0 15px;
-    background-color: transparent;
+    background-color: transparent 100px;
+    backg
     grid-column: auto;
     z-index: 1;
     border: 0px solid #000; 
@@ -44,21 +45,21 @@ a {
 .top-W {
     font-size: 10px;
     font-weight: lighter;
-    color: #fff;
+    color: #84eced;
     margin-right: 20px;
 }
 
 .top-H {
     font-size: 10px;
     font-weight: lighter;
-    color: #fff;
+    color: #84eced;
     margin-right: 20px;
 }
 
 .top-J {
     font-size: 10px;
     font-weight: lighter;
-    color: #fff;
+    color: #84eced;
     margin-right: 20px;
 }
 
